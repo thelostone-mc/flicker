@@ -1,2 +1,2 @@
 # flicker
-Demo : [Old Theater Board](https://adityaanandmc.github.io/flicker)
+Demo : [Old Theater Board](https://thelostone-mc.github.io/flicker)
